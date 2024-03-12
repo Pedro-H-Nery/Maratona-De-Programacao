@@ -24,6 +24,8 @@ A primeira linha contém um inteiro T representando o tipo de chá (1 ≤ T ≤ 
 
 A saída contém um inteiro representando o número de concorrentes que obtiveram a resposta correta.
 
+## Exemplo(s)
+
 | Exemplos de Entrada | Exemplos de Saída |
 | ------------------- | ----------------- |
 | 1 <br/> 1 2 3 2 1   | 2                 |
