@@ -6,7 +6,7 @@
 - **Tipo:** Iniciante
 - **Tempo Limite Base:** 2 Segundo(s)
 - **Limite de Memória:** 200 MB
-- **Feito por:** Nivaldo Carvalho, UNIPE -> Brazil
+- **Feito por:** Nivaldo Carvalho, UNIPE -> Brasil
 
 ## Contexto
 

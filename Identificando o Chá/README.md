@@ -6,7 +6,7 @@
 - **Tipo:** Iniciante
 - **Tempo Limite Base:** 1 Segundo(s)
 - **Limite de Memória:** 200 MB
-- **Feito por:** Inês Kereki -> Uruguay
+- **Feito por:** Inês Kereki -> Uruguai
 
 ## Contexto
 
