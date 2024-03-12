@@ -7,6 +7,7 @@
 - **Tempo Limite Base:** 2 Segundo(s)
 - **Limite de Memória:** 200 MB
 - **Feito por:** Nivaldo Carvalho, UNIPE -> Brasil
+- **Link:** https://judge.beecrowd.com/pt/problems/view/2172
 
 ## Contexto
 

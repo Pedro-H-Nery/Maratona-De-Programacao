@@ -7,6 +7,7 @@
 - **Tempo Limite Base:** 1 Segundo(s)
 - **Limite de Memória:** 200 MB
 - **Feito por:** Autor Desconhecido
+- **Link:** https://judge.beecrowd.com/pt/problems/view/1168
 
 ## Contexto
 
