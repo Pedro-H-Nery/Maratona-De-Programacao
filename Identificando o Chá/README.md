@@ -1,12 +1,14 @@
-INICIANTE | NÍVEL 1 | + 1.0 PONTOS | TEMPO LIMITE BASE: 1 SEGUNDOS | LIMITE DE MEMÓRIA: 200 MB
+# Identificando o Chá
 
-beecrowd | 2006
+## Informações
 
-Identificando o Chá
+- **Nível:** 1
+- **Tipo:** Iniciante
+- **Tempo Limite Base:** 1 Segundo(s)
+- **Limite de Memória:** 200 MB
+- **Feito por:** Inês Kereki -> Uruguay
 
-Por Inês Kereki UY Uruguay
-
-Timelimit: 1
+## Contexto
 
 Degustação de chá às escuras é a habilidade de identificar um chá usando apenas seus sentidos do olfato e paladar.
 
@@ -14,38 +16,15 @@ Isto faz parte da Competição Ideal de Consumidores de Chá Puro (da sigla em i
 
 Dado o tipo de chá real e as respostas fornecidas, determinar o número de participantes que receberam a resposta correta.
 
-Entrada
+## Entrada
 
 A primeira linha contém um inteiro T representando o tipo de chá (1 ≤ T ≤ 4). A segunda linha contém cinco inteiros A, B, C, D e E, que indica a resposta dada por cada competidor (1 ≤ A, B, C, D, E ≤ 4).
 
-Saída
+## Saída
 
 A saída contém um inteiro representando o número de concorrentes que obtiveram a resposta correta.
 
-Exemplos de Entrada Exemplos de Saída
-
-Exemplo 1:
-
-Entrada(s):
-
-1
-
-1 2 3 2 1
-
-Saída(s):
-
-2
-
-Exemplo 2:
-
-Entrada(s):
-
-3
-
-4 1 1 2 1
-
-Saída(s):
-
-0
-
-ICPC Latin American Regional – 2015
+| Exemplos de Entrada | Exemplos de Saída |
+| ------------------- | ----------------- |
+| 1 <br/> 1 2 3 2 1   | 2                 |
+| 3 <br/> 4 1 1 2 1   | 0                 |
